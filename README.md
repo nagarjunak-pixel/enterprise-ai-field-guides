@@ -63,6 +63,6 @@ python3 scripts/verify_guides.py
 
 **Nagarjuna Kamireddy** — Lead AI Architect | AI Solutions Architect | GenAI Lead (`22 years` enterprise IT experience)  
 - **Free Web Library:** [https://nagarjunak-pixel.github.io/handbooks.html](https://nagarjunak-pixel.github.io/handbooks.html)  
-- **Portfolio & 63-Repo Atlas:** [https://nagarjunak-pixel.github.io](https://nagarjunak-pixel.github.io)  
+- **Portfolio & 15-Flagship Portfolio:** [https://nagarjunak-pixel.github.io](https://nagarjunak-pixel.github.io)  
 - **LinkedIn:** [https://www.linkedin.com/in/nagarjuna-kamireddy/](https://www.linkedin.com/in/nagarjuna-kamireddy/)  
-- **Contact:** `writetonagarjuna@gmail.com` · `gmailtonagarjuna@gmail.com`
+- **Contact:** `writetonagarjuna@gmail.com`
