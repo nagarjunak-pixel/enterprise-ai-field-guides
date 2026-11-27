@@ -68,3 +68,6 @@ python3 scripts/verify_guides.py
 - **Architecture Portfolio:** [https://nagarjunak-pixel.github.io](https://nagarjunak-pixel.github.io)  
 - **LinkedIn:** [https://www.linkedin.com/in/nagarjuna-kamireddy/](https://www.linkedin.com/in/nagarjuna-kamireddy/)  
 - **Contact:** `writetonagarjuna@gmail.com`
+
+- **FG-09 (`track-01-production-rag/FG09_Post_Retrieval_RAG_BiTemporal_Memory_RRF_Cascades_Nagarjuna_Kamireddy.pdf`):** Post-Retrieval Enterprise RAG: Bi-Temporal Memory, Pruned RRF Cascades & Cross-Page Stitching (`llm-knowledge-base v1.1.0`, `vecta`, `enterprise-helpdesk-rag-guardrails`)
+- **FG-10 (`track-04-ai-gateways-langgraph/FG10_AI_Inference_FinOps_SLO_Goodput_MaaS_Assurance_Nagarjuna_Kamireddy.pdf`):** AI Inference Economics, Multi-Tenant SLO Goodput & MaaS Assurance (`prism-gate`, `aegis-runtime v1.1.0`, `calibra`, `langgraph-newsroom v1.1.0`)
