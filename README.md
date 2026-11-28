@@ -14,7 +14,7 @@ Every guide distills concrete production patterns, deterministic code guardrails
 
 ```mermaid
 flowchart TD
-    Root["Enterprise AI Field Guides (15 Editions)
+    Root["Enterprise AI Field Guides (19 Editions)
 Authored by Nagarjuna Kamireddy (22 Years)"] --> T1["Track 01: Production Hybrid & GraphRAG
 7 Failure Modes · C++20 BM25+RRF · Neo4j · Abstention"]
     Root --> T2["Track 02: Enterprise MCP & SAP S/4HANA Clean-Core
@@ -31,7 +31,7 @@ SkillBench v1.1.0 · Compaction HMAC · Offline Wiki Consolidation"]
 
 ---
 
-## Complete Field-Guide & Monograph Catalog (15 Open-Access PDFs · Zero Email Wall)
+## Complete Field-Guide & Monograph Catalog (19 Open-Access PDFs · Zero Email Wall)
 
 | Track | PDF Field Guide / Monograph | 1-Click Web Download | Companion Public Reference Code |
 | :--- | :--- | :--- | :--- |
@@ -71,3 +71,5 @@ python3 scripts/verify_guides.py
 
 - **FG-09 (`track-01-production-rag/FG09_Post_Retrieval_RAG_BiTemporal_Memory_RRF_Cascades_Nagarjuna_Kamireddy.pdf`):** Post-Retrieval Enterprise RAG: Bi-Temporal Memory, Pruned RRF Cascades & Cross-Page Stitching (`llm-knowledge-base v1.1.0`, `vecta`, `enterprise-helpdesk-rag-guardrails`)
 - **FG-10 (`track-04-ai-gateways-langgraph/FG10_AI_Inference_FinOps_SLO_Goodput_MaaS_Assurance_Nagarjuna_Kamireddy.pdf`):** AI Inference Economics, Multi-Tenant SLO Goodput & MaaS Assurance (`prism-gate`, `aegis-runtime v1.1.0`, `calibra`, `langgraph-newsroom v1.1.0`)
+- **FG-11 (`track-02-enterprise-mcp-sap-odata/FG11_Financial_Grade_Agentic_Verification_Cost_Sensitive_SQL_Nagarjuna_Kamireddy.pdf`):** Financial-Grade Agentic Verification: Amount-Scaled Decision Layers, Counterfactual SQL & Clean-Core ERP Controls (`syntara v1.1.0`, `enterprise-erp-odata-mcp-server`, `company-os v1.1.0`)
+- **FG-12 (`track-06-agentic-security-finops/FG12_Zero_Egress_Agent_Sandboxes_Multi_Actor_Authority_Nagarjuna_Kamireddy.pdf`):** Zero-Egress Agent Sandboxes & Multi-Actor Authority: Secret Brokers, Bounded Decision Gateways & Sliced Prefill (`aegis-runtime v1.2.0`, `prism-gate v1.1.0`, `skillbench`)
